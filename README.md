@@ -3,7 +3,7 @@ Python script sim_dat.py can be used for estimating probabilities of find number
 
 INPUT SAMPLE FILE dat_vondst_cum.txt
 
-The first column contains the site number, columns 2 through 8 the probabilities of dating per period, and the last column the total number of finds for this observation.
+The first column contains the site number, columns 2 through 8 the probabilities of dating per period, and the last column the total number of finds for this observation. This can be adapted as needed in the Python script for different periodisation schemes.
 
 For a more detailed description, see <a href="Verhagen et al. 2016">https://doi.org/10.1016/j.jasrep.2016.10.006</a>
 
